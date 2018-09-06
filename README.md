@@ -1,3 +1,5 @@
-Daily Javascript for practice  from beginer to advance.
+#Description: 
+My daily Javascript practice  from beginer to advance.
 ____________________________
-contact: nas@example.com
+#contact: 
+nas@example.com
