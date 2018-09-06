@@ -60,9 +60,9 @@ const numbers = [1,2,3,4,5];
   console.log(typeof age);
   // number
   const car = null;
-  console.log(typeof car);
+  console.log(typeof car)
   //undifined
-
+console
   let test;
   // Symbol
   const hasKids = true;
